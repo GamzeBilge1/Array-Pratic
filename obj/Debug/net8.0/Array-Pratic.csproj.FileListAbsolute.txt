@@ -1,0 +1,15 @@
+C:\Users\Gamze\source\repos\Array-Pratic\Array-Pratic\bin\Debug\net8.0\Array-Pratic.exe
+C:\Users\Gamze\source\repos\Array-Pratic\Array-Pratic\bin\Debug\net8.0\Array-Pratic.deps.json
+C:\Users\Gamze\source\repos\Array-Pratic\Array-Pratic\bin\Debug\net8.0\Array-Pratic.runtimeconfig.json
+C:\Users\Gamze\source\repos\Array-Pratic\Array-Pratic\bin\Debug\net8.0\Array-Pratic.dll
+C:\Users\Gamze\source\repos\Array-Pratic\Array-Pratic\bin\Debug\net8.0\Array-Pratic.pdb
+C:\Users\Gamze\source\repos\Array-Pratic\Array-Pratic\obj\Debug\net8.0\Array-Pratic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gamze\source\repos\Array-Pratic\Array-Pratic\obj\Debug\net8.0\Array-Pratic.AssemblyInfoInputs.cache
+C:\Users\Gamze\source\repos\Array-Pratic\Array-Pratic\obj\Debug\net8.0\Array-Pratic.AssemblyInfo.cs
+C:\Users\Gamze\source\repos\Array-Pratic\Array-Pratic\obj\Debug\net8.0\Array-Pratic.csproj.CoreCompileInputs.cache
+C:\Users\Gamze\source\repos\Array-Pratic\Array-Pratic\obj\Debug\net8.0\Array-Pratic.sourcelink.json
+C:\Users\Gamze\source\repos\Array-Pratic\Array-Pratic\obj\Debug\net8.0\Array-Pratic.dll
+C:\Users\Gamze\source\repos\Array-Pratic\Array-Pratic\obj\Debug\net8.0\refint\Array-Pratic.dll
+C:\Users\Gamze\source\repos\Array-Pratic\Array-Pratic\obj\Debug\net8.0\Array-Pratic.pdb
+C:\Users\Gamze\source\repos\Array-Pratic\Array-Pratic\obj\Debug\net8.0\Array-Pratic.genruntimeconfig.cache
+C:\Users\Gamze\source\repos\Array-Pratic\Array-Pratic\obj\Debug\net8.0\ref\Array-Pratic.dll
